@@ -1,13 +1,4 @@
 # Company Profile Website Full Features with CodeIgniter 4 Framework
-Anda dapat membaca pandunan penggunaan website melalui link berikut ini https://javawebmedia.com/blog/download-source-code-website-company-profile-full-features-dengan-codeigniter-4/. Adapun demo dapat Anda akses di http://compro-ci4.javawebmedia.co.id/.
-
-Semoga bermanfaat.
-Spesifikasi Teknis Source Code
-Website ini dikembangkan dengan beberapa spesifikasi:
-1. Dikembangan dengan Codeigniter 4. Pastikan teman-teman membaca Server Requirements dari CI4 ini yah.
-2. Template Admin menggunakan AdminLTE 3.1.0. Bisa diakses di https://adminlte.io/
-3. Template front end menggunakan Medicio 4.0 dari https://bootstrapmade.com/medicio-free-bootstrap-theme/.
-4. Notifikasi menggunakan Sweetalert
 
 # Fitur-fitur Website meliputi:
 
@@ -40,13 +31,6 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 12. Halaman kelola konfigurasi website, logo dan icon
 13. Halaman panduan website
 14. Dan fitur lainnya
-
-## Mengakses Halaman Website dan Login ke Admin
-1. Buka browser Anda
-2. Ketik alamat http://websitekamu.com
-3. Untuk Login ke halaman Back End, silakan buka http://websitekamu.com/login
-4. Username: javawebmedia
-5. Password: javawebmedia
 
 # CodeIgniter 4 Framework
 
